@@ -1,2 +1,2 @@
 # jagacfg
-my personal tf2 config
+My tf2 and l4d2 configs
